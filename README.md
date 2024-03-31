@@ -30,22 +30,23 @@ Durante los primeros 15 días, nos enfocaremos en aprender los conceptos básico
 * Ramas (branches) y fusiones (merges)
 * Resolución de conflictos y otros comandos útiles de Git
 * Colaboración básica en GitHub
-* Últimos 15 Días: Creación de un README y Colaboración en Proyectos
-* Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
+  
+# Últimos 15 Días: Creación de un README y Colaboración en Proyectos
 
-# Creación de un README atractivo y efectivo para tu página de GitHub
+ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 
-Uso de Markdown para dar formato al README
-Integración de imágenes y enlaces útiles en el README
-Prácticas recomendadas para la documentación en GitHub
-Colaboración en proyectos de código abierto
-Uso de ramas y pull requests para contribuir a proyectos existentes
-Resolución de problemas comunes en colaboración de proyectos en GitHub
+* Creación de un README atractivo y efectivo para tu página de GitHub
+* Uso de Markdown para dar formato al README
+* Integración de imágenes y enlaces útiles en el README
+* Prácticas recomendadas para la documentación en GitHub
+* Colaboración en proyectos de código abierto
+* Uso de ramas y pull requests para contribuir a proyectos existentes
+* Resolución de problemas comunes en colaboración de proyectos en GitHub
 
 # Que recursos utilizaremos
 
-Repositorio de Brais Moure: hello-git
-Aplicación Git-it para Windows/Mac/Linux: Git-it
-Recursos que vayan aportando la comunidad en el hilo designado
+* Repositorio de Brais Moure: hello-git
+* Aplicación Git-it para Windows/Mac/Linux: Git-it
+* Recursos que vayan aportando la comunidad en el hilo designado
 ¡Únete y Mejora tus Habilidades con Git & GitHub!
 ¡Te invitamos a unirte a nosotros en este emocionante viaje de 30 días para dominar Git & GitHub! ¡Esperamos verte en el camino y ayudarte a mejorar tus habilidades de desarrollo de software!
