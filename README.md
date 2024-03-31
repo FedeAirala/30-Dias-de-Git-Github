@@ -1,15 +1,18 @@
 # 30-Dias-de-Git-Github
 ![image](https://github.com/FedeAirala/30-Dias-de-Git-Github/assets/148779252/65c5b7fe-2195-4ba0-b209-639c45621ffc)
 
-Descripción
+# Descripción
+
 En esta actividad de la comunidad de Discord de MoureDev veremos el curso completo de Git y GitHub. Los primeros 15 días exploraremos todos los aspectos importantes de estas herramientas de control de versiones y colaboración. Desde los fundamentos básicos hasta las técnicas avanzadas, aprenderás todo lo necesario para utilizar Git y GitHub de manera efectiva en tus proyectos de desarrollo de software y apoyándote con la ayuda de la comunidad en los grupos de estudio.
 
-Requisitos Previos
+# Requisitos Previos
+
 No se requieren conocimientos previos de Git o GitHub para esta actividad. Sin embargo, será útil tener familiaridad con el uso básico de la línea de comandos.
 
 ¡Únete a nosotros y lleva tus habilidades de control de versiones y colaboración al siguiente nivel con este curso completo de Git y GitHub!
 
-Dinámica de la Actividad
+# Dinámica de la Actividad
+
 La dinámica de esta actividad es simple:
 
 Estudia todos los días 30 minutos, durante un período de 30 días.
