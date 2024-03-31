@@ -25,13 +25,13 @@ Utiliza las herramientas con las que te sientas más cómodo para trabajar (Wind
 Durante los primeros 15 días, nos enfocaremos en aprender los conceptos básicos de Git & GitHub:
 
 * Historia y fundamentos de Git
-Configuración y uso básico de Git
-Creación y gestión de repositorios en GitHub
-Ramas (branches) y fusiones (merges)
-Resolución de conflictos y otros comandos útiles de Git
-Colaboración básica en GitHub
-Últimos 15 Días: Creación de un README y Colaboración en Proyectos
-Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
+* Configuración y uso básico de Git
+* Creación y gestión de repositorios en GitHub
+* Ramas (branches) y fusiones (merges)
+* Resolución de conflictos y otros comandos útiles de Git
+* Colaboración básica en GitHub
+* Últimos 15 Días: Creación de un README y Colaboración en Proyectos
+* Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 
 # Creación de un README atractivo y efectivo para tu página de GitHub
 
