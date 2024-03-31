@@ -17,11 +17,14 @@ La dinámica de esta actividad es simple:
 
 Estudia todos los días 30 minutos, durante un período de 30 días.
 Utiliza las herramientas con las que te sientas más cómodo para trabajar (Windows/Mac/Linux).
-Contenido de la actividad
-Primeros 15 Días: Fundamentos de Git & GitHub
+
+# Contenido de la actividad
+
+# Primeros 15 Días: Fundamentos de Git & GitHub
+
 Durante los primeros 15 días, nos enfocaremos en aprender los conceptos básicos de Git & GitHub:
 
-Historia y fundamentos de Git
+* Historia y fundamentos de Git
 Configuración y uso básico de Git
 Creación y gestión de repositorios en GitHub
 Ramas (branches) y fusiones (merges)
@@ -30,14 +33,17 @@ Colaboración básica en GitHub
 Últimos 15 Días: Creación de un README y Colaboración en Proyectos
 Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 
-Creación de un README atractivo y efectivo para tu página de GitHub
+# Creación de un README atractivo y efectivo para tu página de GitHub
+
 Uso de Markdown para dar formato al README
 Integración de imágenes y enlaces útiles en el README
 Prácticas recomendadas para la documentación en GitHub
 Colaboración en proyectos de código abierto
 Uso de ramas y pull requests para contribuir a proyectos existentes
 Resolución de problemas comunes en colaboración de proyectos en GitHub
-Que recursos utilizaremos
+
+# Que recursos utilizaremos
+
 Repositorio de Brais Moure: hello-git
 Aplicación Git-it para Windows/Mac/Linux: Git-it
 Recursos que vayan aportando la comunidad en el hilo designado
