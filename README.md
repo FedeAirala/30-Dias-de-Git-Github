@@ -48,5 +48,6 @@ Durante los primeros 15 días, nos enfocaremos en aprender los conceptos básico
 * Repositorio de Brais Moure: hello-git
 * Aplicación Git-it para Windows/Mac/Linux: Git-it
 * Recursos que vayan aportando la comunidad en el hilo designado
-¡Únete y Mejora tus Habilidades con Git & GitHub!
+  
+ ¡Únete y Mejora tus Habilidades con Git & GitHub!
 ¡Te invitamos a unirte a nosotros en este emocionante viaje de 30 días para dominar Git & GitHub! ¡Esperamos verte en el camino y ayudarte a mejorar tus habilidades de desarrollo de software!
